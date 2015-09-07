@@ -1,11 +1,12 @@
 
 
-***Beckenbauer heels..***
+***Beckenbauer heels***
 ---------------------------------------------
 
 Nuestro logo
 
 ![enter image description here](https://lh3.googleusercontent.com/-B8ixIFb8_PI/Vesw-nsry-I/AAAAAAAAACw/wh-hnBLhOVA/s0/logo.png "logo.png")
+
 
 Nuestro sitio web, representación grafica del inicio.
 
